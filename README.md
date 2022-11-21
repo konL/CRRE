@@ -52,7 +52,7 @@ https://github.com/konL/CRRE/blob/7a9c9eca8c51eaed063ed0852bba26fc3c7cbd87/Renam
 Recommended Version：IDEA version 2020.3/ JDK11
  Predictable language： Java
  
-【Note】
+【Note】This plugin is a demo version based on the algorithm in this article, we will continue to improve this version and release the official version in the future.
  
 ## Installation
 
@@ -120,8 +120,8 @@ Then make the configuration take effect in the shell './.gitattributes' or 'bash
 
 #### (2) Plugin use
 
-Click anywhere in the file to be predicted, click the plug-in "Rename Method Detection" under EditMenu, 
-and the predicted correctable identifier is highlighted. The user can double-click the highlighted identifier, get the method name 
+Click anywhere in the file to be predicted, click the plug-in "Rename Detection" under EditMenu, 
+and the predicted correctable identifier is highlighted. The user can double-click the highlighted identifier, get the identifier name 
 recommended by the plug-in, and decide whether to refactor.
 ![GIF 2021-10-21 10-48-50](https://user-images.githubusercontent.com/24618393/138202862-05a15c9e-5da1-4208-a6ff-10416a9a7123.gif)
 
